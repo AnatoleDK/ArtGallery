@@ -1,0 +1,28 @@
+
+@media all and (max-width:875px){
+   nav {
+    display: none !important;
+   }
+   
+   .mob-nav{
+    display: block !important;
+}
+header .logo a img{
+    display: block;
+    margin-top: 10px; 
+	width:100px;
+	height:100px;
+}
+.dws-mini{
+    display: block !important;
+}
+.dws{
+    display: none !important;
+}
+.dws-mini .butt {
+	
+	min-width: 100px;
+	height: 60px;
+	
+	 border-radius: 100px 100px 100px 100px;
+}
